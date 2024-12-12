@@ -4,10 +4,10 @@ This project focuses on analyzing customer data to identify distinct customer se
 
 # Steps Involved
 1. Importing Liberaries and loading Data
-2. Feture Engineering
+2. Feature Engineering
 3. Exploratory Data Analysis(EDA)
-4. k_means Clustring Algorithm
-5. Customer Profiling Sumaary
+4. k_means Clustering Algorithm
+5. Customer Profiling Summary
 6. Summary of Findings and Conclusion
 
 # Dataset Description
