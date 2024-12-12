@@ -14,8 +14,11 @@ This project focuses on analyzing customer data to identify distinct customer se
 The dataset used in this project is a customer data file containing various demographic and transactional information. It includes key attributes such as:
 
 Demographics: Age, Education, Marital Status, and the number of children (Kidhome, Teenhome).
+
 Purchasing Behavior: Details on customer spending across different product categories, including wines, fruits, meat products, fish products, sweet products, and gold products.
+
 Target Variables: Information on spending and segmentation, used to categorize customers into different clusters.
+
 This rich dataset allows us to perform detailed exploratory data analysis (EDA) and implement customer segmentation through clustering algorithms. The goal is to segment customers based on their spending behavior and demographic features to create tailored marketing strategies.
 
 # Analysis
