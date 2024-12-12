@@ -1,8 +1,6 @@
 # Customer-Segmentation-for-Strategic-Marketing
 ## Project Overview
-In the dynamic world of fast-moving consumer goods (FMCG), understanding customers at a deeper level is essential for businesses. By customizing marketing strategies to reach distinct customer segments, companies can boost sales, strengthen brand identity, and enhance overall business efficiency.
-
-This project will guide you through the steps of customer segmentation and the creation of targeted marketing strategies for specific customer clusters. Using data-driven approaches allows us to design impactful marketing campaigns that align with the unique preferences and needs of each segment.
+This project focuses on analyzing customer data to identify distinct customer segments using K-Means Clustering. The goal is to create targeted marketing strategies for each segment, improving customer engagement and optimizing marketing efforts. The project utilizes customer demographics, spending behavior, and product purchases to create actionable insights.
 
 # Steps Involved
 1. Importing Liberaries and loading Data
